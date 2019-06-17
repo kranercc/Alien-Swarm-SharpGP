@@ -8,22 +8,22 @@ Click [here](https://github.com/kranercc/Alien-Swarm-SharpGP/releases) for the d
 # V3.0 RELEASE (final version) - Miscs will be implemented
 ![#9089F0](https://placehold.it/15/9089F0/000000?text=+) `Features:`
 
-![#99ff66](https://placehold.it/15/99ff66/000000?text=+) `-Infinite Ammo
+![#99ff66](https://placehold.it/15/99ff66/000000?text=+) `-Infinite Ammo`
 
--Infinite Alt Fire Ammo (grenades, etc)
-
-
--Invincible (5k hp threaded loop)
+![#99ff66](https://placehold.it/15/99ff66/000000?text=+) `-Infinite Alt Fire Ammo (grenades, etc)`
 
 
-Features Misc:
+![#99ff66](https://placehold.it/15/99ff66/000000?text=+) `-Invincible (5k hp threaded loop)`
 
--Superman PUNCH (executing the dash animation, you melee attack with the fist)
 
--Rabbit Jump (dash animation cut making you look like a rabbit jumping)
+![#9089F0](https://placehold.it/15/9089F0/000000?text=+) `Misc Features:`
 
--Fast Movement (Left Right Up Down speed increased 3 times)
-`
+![#99ff66](https://placehold.it/15/99ff66/000000?text=+) `-Superman PUNCH (executing the dash animation, you melee attack with the fist)`
+
+![#99ff66](https://placehold.it/15/99ff66/000000?text=+) `-Rabbit Jump (dash animation cut making you look like a rabbit jumping)`
+
+![#99ff66](https://placehold.it/15/99ff66/000000?text=+) `-Fast Movement (Left Right Up Down speed increased 3 times)`
+
 
 YouTube [link](https://www.youtube.com/watch?v=jb5zUBGb7_k) of all features!
 
