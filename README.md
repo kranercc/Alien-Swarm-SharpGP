@@ -25,11 +25,11 @@ Click [here](https://github.com/kranercc/Alien-Swarm-SharpGP/releases) for the d
 ![#99ff66](https://placehold.it/15/99ff66/000000?text=+) `-Fast Movement (Left Right Up Down speed increased 3 times)`
 
 
-YouTube [link](https://www.youtube.com/watch?v=jb5zUBGb7_k) of all features!
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+) `YouTube `[link](https://www.youtube.com/watch?v=jb5zUBGb7_k)` of all features!`
 
-Youtube [link](https://www.youtube.com/watch?v=bUzMBxP6WPU) of the SuperMan PUNCH Feature!
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+) `Youtube `[link](https://www.youtube.com/watch?v=bUzMBxP6WPU)` of the SuperMan PUNCH Feature!`
 
-Youtube [link](https://www.youtube.com/watch?v=GF_itOQnQM0) of the Fast Movement Feature!
+![#ff0000](https://placehold.it/15/ff0000/000000?text=+) `Youtube `link](https://www.youtube.com/watch?v=GF_itOQnQM0)` of the Fast Movement Feature!`
 
 # V2.0
 ![PICSP2](https://raw.githubusercontent.com/kranercc/Alien-Swarm-SharpGP/master/pictures/v2.png)
