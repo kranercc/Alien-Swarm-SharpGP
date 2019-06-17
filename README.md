@@ -7,18 +7,30 @@ Click [here](https://github.com/kranercc/Alien-Swarm-SharpGP/releases) for the d
 
 # V3.0 RELEASE (final version) - Miscs will be implemented
 Features:
+
 -Infinite Ammo
+
 -Infinite Alt Fire Ammo (grenades, etc)
+
+
 -Invincible (5k hp threaded loop)
 
-Features MIsc:
+
+Features Misc:
+
 -Superman PUNCH (executing the dash animation, you melee attack with the fist)
+
 -Rabbit Jump (dash animation cut making you look like a rabbit jumping)
+
 -Fast Movement (Left Right Up Down speed increased 3 times)
 
+
 YouTube [link](https://www.youtube.com/watch?v=jb5zUBGb7_k) of all features!
+
 Youtube [link](https://www.youtube.com/watch?v=bUzMBxP6WPU) of the SuperMan PUNCH Feature!
+
 Youtube [link](https://www.youtube.com/watch?v=GF_itOQnQM0) of the Fast Movement Feature!
+
 # V2.0
 ![PICSP2](https://raw.githubusercontent.com/kranercc/Alien-Swarm-SharpGP/master/pictures/v2.png)
 
