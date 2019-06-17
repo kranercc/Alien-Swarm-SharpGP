@@ -6,9 +6,9 @@ Click [here](https://github.com/kranercc/Alien-Swarm-SharpGP/releases) for the d
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `@Credits: @kranercc & PrexCoder`
 
 # V3.0 RELEASE (final version) - Miscs will be implemented
-Features:
+![#9089F0](https://placehold.it/15/9089F0/000000?text=+) `Features:`
 
--Infinite Ammo
+![#99ff66](https://placehold.it/15/99ff66/000000?text=+) `-Infinite Ammo
 
 -Infinite Alt Fire Ammo (grenades, etc)
 
@@ -23,7 +23,7 @@ Features Misc:
 -Rabbit Jump (dash animation cut making you look like a rabbit jumping)
 
 -Fast Movement (Left Right Up Down speed increased 3 times)
-
+`
 
 YouTube [link](https://www.youtube.com/watch?v=jb5zUBGb7_k) of all features!
 
